@@ -19,7 +19,7 @@ sudo apt install libncurses-dev ffmpeg chafa viu
 ```
 **Arch based distros**
 ```bash
-sudo pacman -S libncurses-dev ffmpeg chafa viu
+sudo pacman -S --needed ncurses ffmpeg chafa viu
 ```
 
 ---
